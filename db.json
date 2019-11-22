@@ -1,0 +1,25 @@
+{
+    "user":[
+        "GFaller",
+        "PFraga",
+        "JCamou",
+        "JBuero",
+        "JRivas",
+        "LSoriano"
+    ],
+
+        "oo-user":[
+            "Pablo Fraga",
+            "German Faller",
+            "Juan Camou",
+            "Juan Buero",
+            "Agustin Echeverria"
+        ],
+    "bool":[
+        true,
+        false
+    ],
+    "profile":{
+        "name":"typicode"
+    }
+}
