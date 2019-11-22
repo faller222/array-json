@@ -1,46 +1,59 @@
 {
    "user":[
       {
+         "id":1,
          "user":"GFaller"
       },
       {
+         "id":2,
          "user":"PFraga"
       },
       {
+         "id":3,
          "user":"JCamou"
       },
       {
+         "id":4,
          "user":"JBuero"
       },
       {
+         "id":5,
          "user":"JRivas"
       },
       {
+         "id":6,
          "user":"LSoriano"
       }
    ],
    "oo-user":[
       {
+         "id":1,
          "user":"Pablo Fraga"
       },
       {
+         "id":2,
          "user":"German Faller"
       },
       {
+         "id":3,
          "user":"Juan Camou"
       },
       {
+         "id":4,
          "user":"Juan Buero"
       },
       {
+         "id":5,
          "user":"Agustin Echeverria"
       }
    ],
    "bool":[
       {
+         "id":1,
          "bool":true
       },
       {
+         "id":2,
          "bool":false
       }
    ],
