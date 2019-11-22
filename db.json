@@ -1,25 +1,50 @@
 {
-    "user":[
-        {"user":"GFaller"},
-        {"user":"PFraga"},
-        {"user":"JCamou"},
-        {"user":"JBuero"},
-        {"user":"JRivas"},
-        {"user":"LSoriano"}
-    ],
-
-        "oo-user":[
-           {"user": "Pablo Fraga"},
-           {"user": "German Faller"},
-           {"user": "Juan Camou"},
-           {"user": "Juan Buero"},
-           {"user": "Agustin Echeverria"}
-        ],
-    "bool":[
-       {"bool": true},
-       {"bool": false}
-    ],
-    "profile":{
-        "name":"typicode"
-    }
+   "user":[
+      {
+         "user":"GFaller"
+      },
+      {
+         "user":"PFraga"
+      },
+      {
+         "user":"JCamou"
+      },
+      {
+         "user":"JBuero"
+      },
+      {
+         "user":"JRivas"
+      },
+      {
+         "user":"LSoriano"
+      }
+   ],
+   "oo-user":[
+      {
+         "user":"Pablo Fraga"
+      },
+      {
+         "user":"German Faller"
+      },
+      {
+         "user":"Juan Camou"
+      },
+      {
+         "user":"Juan Buero"
+      },
+      {
+         "user":"Agustin Echeverria"
+      }
+   ],
+   "bool":[
+      {
+         "bool":true
+      },
+      {
+         "bool":false
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
